@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+When user open the app,the current loaction of user is shown on the screen,Data loaded with list view,Using upload icon the image users image will be update with select from gallery are camera.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
